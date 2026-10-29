@@ -1,0 +1,1014 @@
+{
+  "schema": "fixed-magazine-atlas-v1",
+  "title": "Pokemon Special Edition Official Player's Guide",
+  "sourceSha256": "ed157776a3791deef995c777c7b2de7bd6ad8d2b3052d30d2ffc570bd39b9962",
+  "pdfPageCount": 125,
+  "frontPdfPage": 1,
+  "backPdfPage": 125,
+  "firstInteriorPdfPage": 2,
+  "lastInteriorPdfPage": 124,
+  "spreadCount": 62,
+  "atlasCount": 31,
+  "atlasSize": [
+    2048,
+    2048
+  ],
+  "pagesPerAtlas": 4,
+  "spreadsPerAtlas": 2,
+  "format": "RGB8 PNG",
+  "pageAspect": 0.7713567839195979,
+  "coverAspect": 0.7919100333860482,
+  "nativePresentationWidthScale": 1.0843180937193435,
+  "fit": "contain, no crop, per-page physical-aspect compensation",
+  "coverUvOrigin": "bottom-left",
+  "coverRegions": {
+    "back": [
+      0.00205,
+      0.49382,
+      0.29383,
+      0.99853
+    ],
+    "front": [
+      0.50549,
+      0.9981,
+      0.29383,
+      0.99853
+    ]
+  },
+  "sourcePageSizesPoints": [
+    [
+      614.0,
+      786.0
+    ],
+    [
+      613.0,
+      785.0
+    ],
+    [
+      614.0,
+      785.0
+    ],
+    [
+      509.0,
+      790.0
+    ],
+    [
+      718.0,
+      790.0
+    ],
+    [
+      614.0,
+      801.0
+    ],
+    [
+      614.0,
+      785.0
+    ],
+    [
+      614.0,
+      790.0
+    ],
+    [
+      614.0,
+      795.0
+    ],
+    [
+      614.0,
+      801.0
+    ],
+    [
+      614.0,
+      787.0
+    ],
+    [
+      614.0,
+      789.0
+    ],
+    [
+      614.0,
+      793.0
+    ],
+    [
+      614.0,
+      789.0
+    ],
+    [
+      614.0,
+      795.0
+    ],
+    [
+      614.0,
+      792.0
+    ],
+    [
+      614.0,
+      787.0
+    ],
+    [
+      614.0,
+      794.0
+    ],
+    [
+      614.0,
+      791.0
+    ],
+    [
+      614.0,
+      795.0
+    ],
+    [
+      614.0,
+      798.0
+    ],
+    [
+      614.0,
+      790.0
+    ],
+    [
+      614.0,
+      791.0
+    ],
+    [
+      614.0,
+      789.0
+    ],
+    [
+      614.0,
+      795.0
+    ],
+    [
+      614.0,
+      798.0
+    ],
+    [
+      614.0,
+      790.0
+    ],
+    [
+      614.0,
+      804.0
+    ],
+    [
+      614.0,
+      795.0
+    ],
+    [
+      614.0,
+      793.0
+    ],
+    [
+      614.0,
+      792.0
+    ],
+    [
+      614.0,
+      795.0
+    ],
+    [
+      614.0,
+      788.0
+    ],
+    [
+      614.0,
+      801.0
+    ],
+    [
+      614.0,
+      797.0
+    ],
+    [
+      614.0,
+      792.0
+    ],
+    [
+      614.0,
+      797.0
+    ],
+    [
+      614.0,
+      793.0
+    ],
+    [
+      614.0,
+      795.0
+    ],
+    [
+      614.0,
+      793.0
+    ],
+    [
+      614.0,
+      797.0
+    ],
+    [
+      614.0,
+      800.0
+    ],
+    [
+      614.0,
+      795.0
+    ],
+    [
+      614.0,
+      795.0
+    ],
+    [
+      614.0,
+      792.0
+    ],
+    [
+      614.0,
+      796.0
+    ],
+    [
+      614.0,
+      792.0
+    ],
+    [
+      614.0,
+      808.0
+    ],
+    [
+      614.0,
+      791.0
+    ],
+    [
+      614.0,
+      793.0
+    ],
+    [
+      614.0,
+      796.0
+    ],
+    [
+      614.0,
+      793.0
+    ],
+    [
+      614.0,
+      794.0
+    ],
+    [
+      613.0,
+      798.0
+    ],
+    [
+      614.0,
+      798.0
+    ],
+    [
+      614.0,
+      796.0
+    ],
+    [
+      614.0,
+      796.0
+    ],
+    [
+      614.0,
+      804.0
+    ],
+    [
+      614.0,
+      799.0
+    ],
+    [
+      614.0,
+      798.0
+    ],
+    [
+      614.0,
+      789.0
+    ],
+    [
+      614.0,
+      794.0
+    ],
+    [
+      614.0,
+      800.0
+    ],
+    [
+      614.0,
+      807.0
+    ],
+    [
+      614.0,
+      800.0
+    ],
+    [
+      614.0,
+      806.0
+    ],
+    [
+      614.0,
+      814.0
+    ],
+    [
+      614.0,
+      802.0
+    ],
+    [
+      614.0,
+      799.0
+    ],
+    [
+      614.0,
+      804.0
+    ],
+    [
+      614.0,
+      798.0
+    ],
+    [
+      614.0,
+      798.0
+    ],
+    [
+      614.0,
+      798.0
+    ],
+    [
+      614.0,
+      797.0
+    ],
+    [
+      614.0,
+      796.0
+    ],
+    [
+      614.0,
+      805.0
+    ],
+    [
+      614.0,
+      805.0
+    ],
+    [
+      614.0,
+      794.0
+    ],
+    [
+      614.0,
+      803.0
+    ],
+    [
+      614.0,
+      805.0
+    ],
+    [
+      614.0,
+      794.0
+    ],
+    [
+      614.0,
+      799.0
+    ],
+    [
+      614.0,
+      796.0
+    ],
+    [
+      614.0,
+      805.0
+    ],
+    [
+      614.0,
+      799.0
+    ],
+    [
+      614.0,
+      802.0
+    ],
+    [
+      614.0,
+      799.0
+    ],
+    [
+      614.0,
+      811.0
+    ],
+    [
+      614.0,
+      794.0
+    ],
+    [
+      614.0,
+      800.0
+    ],
+    [
+      614.0,
+      794.0
+    ],
+    [
+      614.0,
+      809.0
+    ],
+    [
+      614.0,
+      794.0
+    ],
+    [
+      614.0,
+      794.0
+    ],
+    [
+      614.0,
+      795.0
+    ],
+    [
+      614.0,
+      804.0
+    ],
+    [
+      614.0,
+      803.0
+    ],
+    [
+      614.0,
+      805.0
+    ],
+    [
+      614.0,
+      795.0
+    ],
+    [
+      614.0,
+      795.0
+    ],
+    [
+      614.0,
+      795.0
+    ],
+    [
+      614.0,
+      800.0
+    ],
+    [
+      614.0,
+      799.0
+    ],
+    [
+      614.0,
+      803.0
+    ],
+    [
+      614.0,
+      795.0
+    ],
+    [
+      614.0,
+      804.0
+    ],
+    [
+      614.0,
+      789.0
+    ],
+    [
+      614.0,
+      799.0
+    ],
+    [
+      614.0,
+      796.0
+    ],
+    [
+      614.0,
+      797.0
+    ],
+    [
+      614.0,
+      800.0
+    ],
+    [
+      614.0,
+      796.0
+    ],
+    [
+      614.0,
+      789.0
+    ],
+    [
+      614.0,
+      796.0
+    ],
+    [
+      614.0,
+      800.0
+    ],
+    [
+      614.0,
+      796.0
+    ],
+    [
+      614.0,
+      795.0
+    ],
+    [
+      614.0,
+      789.0
+    ],
+    [
+      614.0,
+      794.0
+    ],
+    [
+      614.0,
+      796.0
+    ],
+    [
+      614.0,
+      796.0
+    ],
+    [
+      614.0,
+      803.0
+    ],
+    [
+      614.0,
+      795.0
+    ],
+    [
+      614.0,
+      802.0
+    ],
+    [
+      614.0,
+      784.0
+    ]
+  ],
+  "atlases": [
+    {
+      "atlas": 0,
+      "file": "atlas-000.png",
+      "pdfPagesTopLeftTopRightBottomLeftBottomRight": [
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "atlas": 1,
+      "file": "atlas-001.png",
+      "pdfPagesTopLeftTopRightBottomLeftBottomRight": [
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "atlas": 2,
+      "file": "atlas-002.png",
+      "pdfPagesTopLeftTopRightBottomLeftBottomRight": [
+        10,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "atlas": 3,
+      "file": "atlas-003.png",
+      "pdfPagesTopLeftTopRightBottomLeftBottomRight": [
+        14,
+        15,
+        16,
+        17
+      ]
+    },
+    {
+      "atlas": 4,
+      "file": "atlas-004.png",
+      "pdfPagesTopLeftTopRightBottomLeftBottomRight": [
+        18,
+        19,
+        20,
+        21
+      ]
+    },
+    {
+      "atlas": 5,
+      "file": "atlas-005.png",
+      "pdfPagesTopLeftTopRightBottomLeftBottomRight": [
+        22,
+        23,
+        24,
+        25
+      ]
+    },
+    {
+      "atlas": 6,
+      "file": "atlas-006.png",
+      "pdfPagesTopLeftTopRightBottomLeftBottomRight": [
+        26,
+        27,
+        28,
+        29
+      ]
+    },
+    {
+      "atlas": 7,
+      "file": "atlas-007.png",
+      "pdfPagesTopLeftTopRightBottomLeftBottomRight": [
+        30,
+        31,
+        32,
+        33
+      ]
+    },
+    {
+      "atlas": 8,
+      "file": "atlas-008.png",
+      "pdfPagesTopLeftTopRightBottomLeftBottomRight": [
+        34,
+        35,
+        36,
+        37
+      ]
+    },
+    {
+      "atlas": 9,
+      "file": "atlas-009.png",
+      "pdfPagesTopLeftTopRightBottomLeftBottomRight": [
+        38,
+        39,
+        40,
+        41
+      ]
+    },
+    {
+      "atlas": 10,
+      "file": "atlas-010.png",
+      "pdfPagesTopLeftTopRightBottomLeftBottomRight": [
+        42,
+        43,
+        44,
+        45
+      ]
+    },
+    {
+      "atlas": 11,
+      "file": "atlas-011.png",
+      "pdfPagesTopLeftTopRightBottomLeftBottomRight": [
+        46,
+        47,
+        48,
+        49
+      ]
+    },
+    {
+      "atlas": 12,
+      "file": "atlas-012.png",
+      "pdfPagesTopLeftTopRightBottomLeftBottomRight": [
+        50,
+        51,
+        52,
+        53
+      ]
+    },
+    {
+      "atlas": 13,
+      "file": "atlas-013.png",
+      "pdfPagesTopLeftTopRightBottomLeftBottomRight": [
+        54,
+        55,
+        56,
+        57
+      ]
+    },
+    {
+      "atlas": 14,
+      "file": "atlas-014.png",
+      "pdfPagesTopLeftTopRightBottomLeftBottomRight": [
+        58,
+        59,
+        60,
+        61
+      ]
+    },
+    {
+      "atlas": 15,
+      "file": "atlas-015.png",
+      "pdfPagesTopLeftTopRightBottomLeftBottomRight": [
+        62,
+        63,
+        64,
+        65
+      ]
+    },
+    {
+      "atlas": 16,
+      "file": "atlas-016.png",
+      "pdfPagesTopLeftTopRightBottomLeftBottomRight": [
+        66,
+        67,
+        68,
+        69
+      ]
+    },
+    {
+      "atlas": 17,
+      "file": "atlas-017.png",
+      "pdfPagesTopLeftTopRightBottomLeftBottomRight": [
+        70,
+        71,
+        72,
+        73
+      ]
+    },
+    {
+      "atlas": 18,
+      "file": "atlas-018.png",
+      "pdfPagesTopLeftTopRightBottomLeftBottomRight": [
+        74,
+        75,
+        76,
+        77
+      ]
+    },
+    {
+      "atlas": 19,
+      "file": "atlas-019.png",
+      "pdfPagesTopLeftTopRightBottomLeftBottomRight": [
+        78,
+        79,
+        80,
+        81
+      ]
+    },
+    {
+      "atlas": 20,
+      "file": "atlas-020.png",
+      "pdfPagesTopLeftTopRightBottomLeftBottomRight": [
+        82,
+        83,
+        84,
+        85
+      ]
+    },
+    {
+      "atlas": 21,
+      "file": "atlas-021.png",
+      "pdfPagesTopLeftTopRightBottomLeftBottomRight": [
+        86,
+        87,
+        88,
+        89
+      ]
+    },
+    {
+      "atlas": 22,
+      "file": "atlas-022.png",
+      "pdfPagesTopLeftTopRightBottomLeftBottomRight": [
+        90,
+        91,
+        92,
+        93
+      ]
+    },
+    {
+      "atlas": 23,
+      "file": "atlas-023.png",
+      "pdfPagesTopLeftTopRightBottomLeftBottomRight": [
+        94,
+        95,
+        96,
+        97
+      ]
+    },
+    {
+      "atlas": 24,
+      "file": "atlas-024.png",
+      "pdfPagesTopLeftTopRightBottomLeftBottomRight": [
+        98,
+        99,
+        100,
+        101
+      ]
+    },
+    {
+      "atlas": 25,
+      "file": "atlas-025.png",
+      "pdfPagesTopLeftTopRightBottomLeftBottomRight": [
+        102,
+        103,
+        104,
+        105
+      ]
+    },
+    {
+      "atlas": 26,
+      "file": "atlas-026.png",
+      "pdfPagesTopLeftTopRightBottomLeftBottomRight": [
+        106,
+        107,
+        108,
+        109
+      ]
+    },
+    {
+      "atlas": 27,
+      "file": "atlas-027.png",
+      "pdfPagesTopLeftTopRightBottomLeftBottomRight": [
+        110,
+        111,
+        112,
+        113
+      ]
+    },
+    {
+      "atlas": 28,
+      "file": "atlas-028.png",
+      "pdfPagesTopLeftTopRightBottomLeftBottomRight": [
+        114,
+        115,
+        116,
+        117
+      ]
+    },
+    {
+      "atlas": 29,
+      "file": "atlas-029.png",
+      "pdfPagesTopLeftTopRightBottomLeftBottomRight": [
+        118,
+        119,
+        120,
+        121
+      ]
+    },
+    {
+      "atlas": 30,
+      "file": "atlas-030.png",
+      "pdfPagesTopLeftTopRightBottomLeftBottomRight": [
+        122,
+        123,
+        124,
+        null
+      ]
+    }
+  ],
+  "files": [
+    {
+      "file": "atlas-000.png",
+      "bytes": 5780260,
+      "sha256": "79db14b419daa20f25c807cc7d158f82a4288a304ff9e560c020f148d0944599"
+    },
+    {
+      "file": "atlas-001.png",
+      "bytes": 4777459,
+      "sha256": "bd149e823e247d35e340430ae47a68cc725efab46b4aa9919f2dba9679423090"
+    },
+    {
+      "file": "atlas-002.png",
+      "bytes": 4444122,
+      "sha256": "84da816796f2df706ac9314ac967170fe7e371b930b12b011fe562adfe455b58"
+    },
+    {
+      "file": "atlas-003.png",
+      "bytes": 5375975,
+      "sha256": "8108ef35188a9804de04174d5b39f2ba1ddbed7b40f67ea45f0eda6dced1a512"
+    },
+    {
+      "file": "atlas-004.png",
+      "bytes": 4724964,
+      "sha256": "e8bdd153ea20c733110bdc6b4a11ac66a1473b02b1701ba9807abf77bdd3e370"
+    },
+    {
+      "file": "atlas-005.png",
+      "bytes": 4530893,
+      "sha256": "dd122d2e920dbfbb2b0067d50a208a259e277af66790d9829e19a2ec55e0a5ec"
+    },
+    {
+      "file": "atlas-006.png",
+      "bytes": 4913919,
+      "sha256": "4a063eae3ddc30ae1796d7a0128771e527a36b7d167df8a37e80129c6374d10c"
+    },
+    {
+      "file": "atlas-007.png",
+      "bytes": 4505631,
+      "sha256": "3d4e7ddbf69f03a4c0f301c0d780c0d42ab6785cae342e4606ada5746c105662"
+    },
+    {
+      "file": "atlas-008.png",
+      "bytes": 4634168,
+      "sha256": "3ecc423af32ccd5808f7f4d11ac9bb762e8ceefde8a310b2921a8de5fceaac29"
+    },
+    {
+      "file": "atlas-009.png",
+      "bytes": 4919883,
+      "sha256": "105e10365fa4647990524d1fcba0a42e2429fc3f4d8dc1c6af38dcde2197c4de"
+    },
+    {
+      "file": "atlas-010.png",
+      "bytes": 5194092,
+      "sha256": "4b4ef62f92472f7eef4849e0b6b4f7f2e7d1faf833029dc2e06929961e130b64"
+    },
+    {
+      "file": "atlas-011.png",
+      "bytes": 4834535,
+      "sha256": "4016d0826187baeaf9ad678f9f67373aa9f27fef6faa18b472d59f2ff83200e0"
+    },
+    {
+      "file": "atlas-012.png",
+      "bytes": 5000959,
+      "sha256": "8dde040b01f25d6b5f1c55ae6fa42072afc943c28f54194ea76d635925d5c791"
+    },
+    {
+      "file": "atlas-013.png",
+      "bytes": 4958267,
+      "sha256": "7a4e537c4ef797721a2eff0989c777cdfdb152cd7ab55291337e106f8727f8ab"
+    },
+    {
+      "file": "atlas-014.png",
+      "bytes": 5291228,
+      "sha256": "00c726e66d11f1bc23639be9d133b5293aa5d683f874b2fd93c0e15738956eeb"
+    },
+    {
+      "file": "atlas-015.png",
+      "bytes": 5389945,
+      "sha256": "771c2b02c3ea653a69ec3b88da9070cc14026c4c10ddd240aa1a4a80a75c4529"
+    },
+    {
+      "file": "atlas-016.png",
+      "bytes": 5574516,
+      "sha256": "c486d715271a47789288e7e31867ac53cb3a60b4dbf6f4a9677773aaa40b8ca7"
+    },
+    {
+      "file": "atlas-017.png",
+      "bytes": 6980951,
+      "sha256": "bf3512522f80429c628932ba3148767916d7a302f8378f5886ca9b6e30a78bdc"
+    },
+    {
+      "file": "atlas-018.png",
+      "bytes": 5309612,
+      "sha256": "feb16b656578f92694805c9af5f1140033ce7c6a3fedce957f4a941ff390843f"
+    },
+    {
+      "file": "atlas-019.png",
+      "bytes": 5280793,
+      "sha256": "670f0fd378a8a48f06f2b78dba919e32e2de44fc7409905b3cb5d998ae44ae56"
+    },
+    {
+      "file": "atlas-020.png",
+      "bytes": 5202957,
+      "sha256": "a932b1bde3611f8aa76b4876f7894612377e8eb7c7e5b581658daa7203237541"
+    },
+    {
+      "file": "atlas-021.png",
+      "bytes": 5221957,
+      "sha256": "99ef331da33364398a49bfd5be7c77f2a71914db3fbffc3f93b01a6934037595"
+    },
+    {
+      "file": "atlas-022.png",
+      "bytes": 5280322,
+      "sha256": "68a8710076ac574907714e428d8380303de2c2763312ac7b8b7a5b1c8edba0da"
+    },
+    {
+      "file": "atlas-023.png",
+      "bytes": 5155945,
+      "sha256": "d1bed005d1a14253a828f2e3b858c389289ebf817f0176ac200d42a6a993532b"
+    },
+    {
+      "file": "atlas-024.png",
+      "bytes": 5240058,
+      "sha256": "445e93e642e18a28d25c34996469fe237bf3cedca86d174faec14e1dd10a695d"
+    },
+    {
+      "file": "atlas-025.png",
+      "bytes": 5201241,
+      "sha256": "ce8c9708bd4e146304d59241a798afc3606ae5f6881f3ff0e4e926a1fa75362a"
+    },
+    {
+      "file": "atlas-026.png",
+      "bytes": 5123639,
+      "sha256": "0d8ec98b78e8fe614040c2c730d7762c42a40316663f1989188d78fa429eae0f"
+    },
+    {
+      "file": "atlas-027.png",
+      "bytes": 5009304,
+      "sha256": "992fdb660c9377747cc8d2cbbf48f423c183dbf3554f9f22c9b4de903a3a650a"
+    },
+    {
+      "file": "atlas-028.png",
+      "bytes": 5406518,
+      "sha256": "4e38c70c14c78e19207fc03fa06688afa7dc1543e2a912d444aed4d8bb792a9b"
+    },
+    {
+      "file": "atlas-029.png",
+      "bytes": 6228595,
+      "sha256": "d84e7cd162f5acb02ca898d503ea703cc08c428fb04e87b30f59077de8ab2add"
+    },
+    {
+      "file": "atlas-030.png",
+      "bytes": 4111292,
+      "sha256": "76b843188829547f3eabf92a10eb7a723fb03a05428b17bc9e47c8347da41695"
+    },
+    {
+      "file": "cover.png",
+      "bytes": 3512633,
+      "sha256": "a4e339b1de1387da5dc7c23caef8f5a368d0bffe96d86b1da8e32afe6ee47510"
+    }
+  ]
+}
